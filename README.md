@@ -1,4 +1,2 @@
-# calculatorSwift
-# calculatorSwift
 # RGBSwift
-# CalculatorSwift
+
